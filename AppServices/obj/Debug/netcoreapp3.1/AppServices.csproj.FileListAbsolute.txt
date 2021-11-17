@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppServices\bin\Debug\netcoreapp3.1\AppServices.deps.json
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppServices\bin\Debug\netcoreapp3.1\AppServices.dll
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppServices\bin\Debug\netcoreapp3.1\AppServices.pdb
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppServices\bin\Debug\netcoreapp3.1\AppCommon.dll
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppServices\bin\Debug\netcoreapp3.1\AppDataAccess.dll
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppServices\bin\Debug\netcoreapp3.1\AppModel.dll
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppServices\bin\Debug\netcoreapp3.1\AppCommon.pdb
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppServices\bin\Debug\netcoreapp3.1\AppDataAccess.pdb
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppServices\bin\Debug\netcoreapp3.1\AppModel.pdb
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppServices\obj\Debug\netcoreapp3.1\AppServices.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppServices\obj\Debug\netcoreapp3.1\AppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppServices\obj\Debug\netcoreapp3.1\AppServices.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppServices\obj\Debug\netcoreapp3.1\AppServices.AssemblyInfo.cs
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppServices\obj\Debug\netcoreapp3.1\AppServices.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppServices\obj\Debug\netcoreapp3.1\AppServices.csproj.CopyComplete
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppServices\obj\Debug\netcoreapp3.1\AppServices.dll
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppServices\obj\Debug\netcoreapp3.1\AppServices.pdb

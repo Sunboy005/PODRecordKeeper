@@ -1,0 +1,9 @@
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppCommon\bin\Debug\netcoreapp3.1\AppCommon.deps.json
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppCommon\bin\Debug\netcoreapp3.1\AppCommon.dll
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppCommon\bin\Debug\netcoreapp3.1\AppCommon.pdb
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppCommon\obj\Debug\netcoreapp3.1\AppCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppCommon\obj\Debug\netcoreapp3.1\AppCommon.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppCommon\obj\Debug\netcoreapp3.1\AppCommon.AssemblyInfo.cs
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppCommon\obj\Debug\netcoreapp3.1\AppCommon.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppCommon\obj\Debug\netcoreapp3.1\AppCommon.dll
+C:\Users\hp\Desktop\RecordKeeper\RecordKeeper\AppCommon\obj\Debug\netcoreapp3.1\AppCommon.pdb

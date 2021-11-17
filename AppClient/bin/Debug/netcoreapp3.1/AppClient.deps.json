@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AppClient/1.0.0": {
+        "dependencies": {
+          "AppCommon": "1.0.0",
+          "AppModel": "1.0.0",
+          "AppServices": "1.0.0"
+        },
+        "runtime": {
+          "AppClient.dll": {}
+        }
+      },
+      "AppCommon/1.0.0": {
+        "runtime": {
+          "AppCommon.dll": {}
+        }
+      },
+      "AppDataAccess/1.0.0": {
+        "dependencies": {
+          "AppModel": "1.0.0"
+        },
+        "runtime": {
+          "AppDataAccess.dll": {}
+        }
+      },
+      "AppModel/1.0.0": {
+        "runtime": {
+          "AppModel.dll": {}
+        }
+      },
+      "AppServices/1.0.0": {
+        "dependencies": {
+          "AppCommon": "1.0.0",
+          "AppDataAccess": "1.0.0"
+        },
+        "runtime": {
+          "AppServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppCommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppDataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
